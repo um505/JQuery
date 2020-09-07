@@ -1,0 +1,50 @@
+movies = `
+            [{
+                "Title" : "Joker",
+                "Description" : "In Gotham City, mentally troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime.",
+                "Image" : "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+                "Likes": 0
+            },
+            {
+                "Title" : "The Godfather",
+                "Description" : "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+                "Image" : "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY1000_CR0,0,704,1000_AL_.jpg",
+                "Likes": 0
+            },
+            {
+                "Title" : "The Hunger Games",
+                "Description" : "Katniss Everdeen voluntarily takes her younger sister's place in the Hunger Games: a televised competition.",
+                "Image" : "https://m.media-amazon.com/images/M/MV5BMTcxNDI2NDAzNl5BMl5BanBnXkFtZTgwODM3MTc2MjE@._V1_SY1000_CR0,0,657,1000_AL_.jpg",
+                "Likes": 0
+            },{
+                "Title" : "Once Upon a Time in America",
+                "Description" : "A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan over thirty years later, where he once again must confront the ghosts and regrets of his old life.",
+                "Image" : "https://m.media-amazon.com/images/M/MV5BMGFkNWI4MTMtNGQ0OC00MWVmLTk3MTktOGYxN2Y2YWVkZWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_CR0,0,639,1000_AL_.jpg",
+                "Likes": 0
+            },{
+                "Title" : "The Wolf of Wall",
+                "Description" : "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.",
+                "Image" : "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+                "Likes": 0
+            },{
+                "Title" : "Fight Club",
+                "Description" : "An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more.",
+                "Image" : "https://m.media-amazon.com/images/M/MV5BMmEzNTkxYjQtZTc0MC00YTVjLTg5ZTEtZWMwOWVlYzY0NWIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY1000_CR0,0,666,1000_AL_.jpg",
+                "Likes": 0
+            },
+            {
+                "Title" : "Money Heist ",
+                "Description" : "An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history - stealing 2.4 billion euros from the Royal Mint of Spain.",
+                "Image" : "https://m.media-amazon.com/images/M/MV5BMmEzNTkxYjQtZTc0MC00YTVjLTg5ZTEtZWMwOWVlYzY0NWIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY1000_CR0,0,666,1000_AL_.jpg",
+                "Likes": 0
+            },
+            {
+                "Title" : "Home Alone",
+                "Description" : "An eight-year-old troublemaker must protect his house from a pair of burglars when he is accidentally left home alone by his family during Christmas vacation.",
+                "Image" : "https://m.media-amazon.com/images/M/MV5BMzFkM2YwOTQtYzk2Mi00N2VlLWE3NTItN2YwNDg1YmY0ZDNmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_CR0,0,672,1000_AL_.jpg",
+                "Likes": 0
+            }
+        ]`;  
+		
+		
+		
